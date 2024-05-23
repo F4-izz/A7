@@ -1,1 +1,2 @@
-# A7
+# INSTAL SCRIPT 
+apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/F4-izz/AU/main/main.sh && chmod +x main.sh && ./main.sh
